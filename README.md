@@ -48,7 +48,7 @@ python3 GroupMngr.py
 ```bash
 python3 comparisonServer.py
 ```
-# Quando solicitado, informe o número de mensagens por peer (ex: 3)
+#### Quando solicitado, informe o número de mensagens por peer (ex: 3)
 
 #### c. Peers (em cada uma das 6 instâncias)
 ```bash
