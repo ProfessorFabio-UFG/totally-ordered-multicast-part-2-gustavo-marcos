@@ -50,7 +50,7 @@ python3 comparisonServer.py
 ```
 #### c. Peers (em cada uma das 6 instâncias)
 ```bash
-python3 peerCommunicatorUDP.py
+python3 peerCommunicatorUDP-Ordered.py (Versão com ordenação) ou python3 peerCommunicatorUDP-NoOrder.py (Versão sem ordenação)
 ```
 
 #### Quando solicitado, informe o número de mensagens por peer (ex: 3)
